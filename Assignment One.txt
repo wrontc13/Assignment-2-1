@@ -1,0 +1,11 @@
+Object is the particular instance of a class which is a combination of variables, functions and data structures. 
+
+Class is a template definition of the methods and variables in a particular kind of object. 
+
+Inheritance is when an object or class is based on another object or class using the same implementation specifying implementation to maintain the same behavior.
+
+Polymorphism refers to a programming language's ability to process objects differently depending on their date type or class. 
+
+Encapsulation is the inclusion within a program object of all the resources needed for the object to function. 
+
+Abstraction is when a programmer hides all but the relevant date about an object in order to reduce complexity and increase efficiency. 
